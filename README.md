@@ -1,2 +1,3 @@
 # SqL--Music_databse
-practiced project on sequence querry language 
+This is Music Store Data Analytics end-to-end SQL project .
+
